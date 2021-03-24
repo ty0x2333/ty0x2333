@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ty0x2333&count_private=true&show_icons=true&hide_title=true&hide_border=true" />
 
-### Hi there 👋  你你你, 你要跳舞吗?
+### Hi there 👋 
 
 滴墨书摘 正在招聘 **Android / iOS 开发(校招)**.
 
